@@ -1,0 +1,16 @@
+# Altium generated / heavy
+*.IntLib
+Project Outputs*/
+Project Logs*/
+History/
+__Previews/
+*.Zip
+*.PrjPcbStructure
+
+# Altium temp
+~*
+*.bak
+*.$$$
+
+# Optional: exclude output image dumps if large
+Generated/
