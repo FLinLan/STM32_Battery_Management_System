@@ -84,23 +84,6 @@ GenerateClassCluster=0
 DocumentUniqueId=OCUNTITK
 
 [Document3]
-DocumentPath=Gate_Driver.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DKTVBVKP
-
-[Document4]
 DocumentPath=Power_Management.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UXQCJQCX
 
-[Document5]
+[Document4]
 DocumentPath=..\..\..\..\VivoBook\Projects\Hardware\Phil_Footprint_And_Schematics\Footprint-Lib-PhilsLab.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PJJBOUDJ
 
-[Document6]
+[Document5]
 DocumentPath=..\..\..\..\VivoBook\Projects\Hardware\Phil_Footprint_And_Schematics\Schematic-Lib-PhilsLab.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NDNXAREH
 
-[Document7]
+[Document6]
 DocumentPath=..\..\..\..\VivoBook\Projects\Hardware\Phil_Footprint_And_Schematics\STM32_Battery_Management_System_V1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YXXWECKF
 
-[Document8]
+[Document7]
 DocumentPath=TopLevel.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -184,23 +167,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AWGYIFIE
-
-[Document9]
-DocumentPath=CAN_Transceiver.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CZBKXMZO
 
 [Configuration1]
 Name=Sources
